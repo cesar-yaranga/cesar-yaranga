@@ -13,6 +13,7 @@
 </a>
 
 <br />
+<br />
 
 Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Uni-logo_transparente_granate.png" width="25px"> apasionado por la Ciencia de Datos y la Ingeniería de los Datos. En mi GitHub almacenaré los proyectos que vaya realizando respecto a estos temas, como predicción con algoritmos de Machine Learning, segmentación y clustering mediante Métodos No Supervisados, desarrollo ETL y análisis de datos.
 
