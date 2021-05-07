@@ -21,18 +21,20 @@ Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero
 
 
   <img align="right" alt="GIF" src="https://static01.nyt.com/images/2018/10/19/business/19AIcover-illo/19AIcover-illo-jumbo-v5.gif" width="500" height="280" />
-  
+
+**Skills**  
+
+- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></code> Python
+- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_64x64.png"></code> R
+- <code><img height="20" src="https://camo.githubusercontent.com/8610b73ca32a802ebdcb1236af9134e0ace3ed8d1977bb3910156500b03fc9c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d646174612d73747564696f2e737667"></code> Google Data Studio
+- <code><img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/postgresql.svg"></code> Postgres SQL
+- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png"></code> JAVA
+- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png"></code> C++
+
+**Hobbies**
+
 - 💬 Ciencia de Datos
 - 📫 Ingeniería de Datos
 - 📝 Rider
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 
 
