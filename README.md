@@ -1,5 +1,9 @@
 ### Hola Mundo! Soy César  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.youtube.com/channel/UCRgYT_161yf_O24XCuMsrdw">
+  <img align="left" alt="Cesar Youtube" width="35px" src="https://e7.pngegg.com/pngimages/125/937/png-clipart-youtube-logo-youtube-angle-logo.png" />
+</a>
+
 <a href="https://github.com/cesar-yaranga">
   <img align="left" alt="Cesar GitHub" width="22px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
 </a>
