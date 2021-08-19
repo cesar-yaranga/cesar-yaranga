@@ -36,6 +36,7 @@ Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero
   - Seaborn
   - Scikit Learn
   - Numpy
+- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png"></code> C#
 - <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_64x64.png"></code> R
 - <code><img height="20" src="https://edujammexico.files.wordpress.com/2013/02/excel2013icon.png?w=584"></code> Excel
 - <code><img height="20" src="https://colab.research.google.com/img/colab_favicon.ico"></code> Google Colab
