@@ -28,7 +28,8 @@ Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero
 
 **Skills**  
 
-- <code><img height="20" src="https://1.bp.blogspot.com/-PqVnfhKygxo/WoyKxgrMjXI/AAAAAAAAQ9E/3dnfbyMEXhop2qUnf2_ApLqgSLUYiWr9wCLcBGAs/s1600/NN.png"></code> Machine Learning
+- <code><img height="20" src="https://1.bp.blogspot.com/-PqVnfhKygxo/WoyKxgrMjXI/AAAAAAAAQ9E/3dnfbyMEXhop2qUnf2_ApLqgSLUYiWr9wCLcBGAs/s1600/NN.png"></code> Deep Learning
+- <code><img height="20" src="https://www.gormanalysis.com/logo.png"></code> Machine Learning
 - <code><img height="20" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png"></code> SQL Server
 - <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></code> Python
   - Pandas
