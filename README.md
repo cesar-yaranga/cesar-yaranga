@@ -34,13 +34,9 @@ Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero
   - Scikit Learn
   - Numpy
 - <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png"></code> C#
-- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_64x64.png"></code> R
 - <code><img height="20" src="https://edujammexico.files.wordpress.com/2013/02/excel2013icon.png?w=584"></code> Excel
 - <code><img height="20" src="https://colab.research.google.com/img/colab_favicon.ico"></code> Google Colab
 - <code><img height="20" src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g"></code> Git
-- <code><img height="20" src="https://carlospesquera.com/wp-content/uploads/2020/05/social-default-image.png"></code> Power BI
-- <code><img height="20" src="https://camo.githubusercontent.com/8610b73ca32a802ebdcb1236af9134e0ace3ed8d1977bb3910156500b03fc9c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d646174612d73747564696f2e737667"></code> Google Data Studio
-- <code><img height="20" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/i6f25wkhuwvkcgg4jcux"></code> Google Cloud Platform
 
 **Hobbies**
 
