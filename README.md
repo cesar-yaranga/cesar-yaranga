@@ -28,6 +28,8 @@ Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero
 - <code><img height="20" src="https://www.gormanalysis.com/logo.png"></code> Machine Learning
 - <code><img height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"></code> SQL Server
 - <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></code> Python
+  - Pytorch
+  - Tensorflow
   - Pandas
   - Matplotlib
   - Seaborn
