@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Ciencia de Datos y la Ingeniería de los Datos. En mi GitHub almacenaré los proyectos que vaya realizando respecto a estos temas, como predicción con algoritmos de Machine Learning.
+Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Inteligencia Artificial. En mi GitHub almacenaré los proyectos que vaya realizando respecto a estos temas, como predicción con algoritmos de Machine Learning.
 
 Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero si se verán en mi cuenta de Kaggle: https://www.kaggle.com/cesarys/code
 
