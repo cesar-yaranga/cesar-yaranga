@@ -15,30 +15,11 @@
 <br />
 <br />
 
-Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Inteligencia Artificial. En mi GitHub almacenaré los proyectos que vaya realizando respecto a estos temas, como predicción con algoritmos de Machine Learning.
-
-Nota: Algunos gráficos interactivos, no se verán en mi página de GitHub, pero si se verán en mi cuenta de Kaggle: https://www.kaggle.com/cesarys/code
-
+Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Arquitectura de Software y Diseño de Software.
 
   <img align="right" alt="GIF" src="https://static01.nyt.com/images/2018/10/19/business/19AIcover-illo/19AIcover-illo-jumbo-v5.gif" width="500" height="280" />
 
 **Skills**  
-
-- <code><img height="20" src="https://1.bp.blogspot.com/-PqVnfhKygxo/WoyKxgrMjXI/AAAAAAAAQ9E/3dnfbyMEXhop2qUnf2_ApLqgSLUYiWr9wCLcBGAs/s1600/NN.png"></code> Deep Learning
-- <code><img height="20" src="https://www.gormanalysis.com/logo.png"></code> Machine Learning
-- <code><img height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"></code> SQL Server
-- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></code> Python
-  - Pytorch
-  - Tensorflow
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Scikit Learn
-  - Numpy
-- <code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png"></code> C#
-- <code><img height="20" src="https://edujammexico.files.wordpress.com/2013/02/excel2013icon.png?w=584"></code> Excel
-- <code><img height="20" src="https://colab.research.google.com/img/colab_favicon.ico"></code> Google Colab
-- <code><img height="20" src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g"></code> Git
 
 **Hobbies**
 
