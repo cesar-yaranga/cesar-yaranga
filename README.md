@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hola! soy Cesar Yaranga, un estudiante de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Arquitectura de Software y Diseño de Software.
+Hola! soy Cesar Yaranga, un egresado de Ciencias de la Computación de la Universidad Nacional de Ingeniería (UNI)  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="25px"> apasionado por la Arquitectura de Software y la Inteligencia Artificial.
 
   <img align="right" alt="GIF" src="https://static01.nyt.com/images/2018/10/19/business/19AIcover-illo/19AIcover-illo-jumbo-v5.gif" width="500" height="280" />
 
