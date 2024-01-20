@@ -1,15 +1,15 @@
 ### Hola Mundo! Soy César  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.linkedin.com/in/julio-cesar-yaranga-sante-aa9932179/">
+  <img align="left" alt="Cesar LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />
+</a>
+
 <a href="https://github.com/cesar-yaranga">
   <img align="left" alt="Cesar GitHub" width="22px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
 </a>
 
 <a href="https://www.kaggle.com/cesarys/code">
   <img align="left" alt="Cesar Kaggle" width="22px" src="https://camo.githubusercontent.com/96313f84e4c257e753560f701e77c29697410d36bbd327294980f90451fcb1bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" />
-</a>
-
-<a href="https://www.linkedin.com/in/julio-cesar-yaranga-sante-aa9932179/">
-  <img align="left" alt="Cesar LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 </a>
 
 <br />
