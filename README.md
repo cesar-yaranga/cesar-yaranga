@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://github.com/cesar-yaranga">
-  <img align="left" alt="Cesar GitHub" width="22px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
+  <img align="left" alt="Cesar GitHub" width="22px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
 </a>
 
 <a href="https://www.kaggle.com/cesarys/code">
-  <img align="left" alt="Cesar Kaggle" width="22px" src="https://camo.githubusercontent.com/96313f84e4c257e753560f701e77c29697410d36bbd327294980f90451fcb1bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" />
+  <img align="left" alt="Cesar Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />
 </a>
 
 <br />
