@@ -19,8 +19,6 @@ Hola! soy Cesar Yaranga, un egresado de Ciencias de la Computación de la Univer
 
   <img align="right" alt="GIF" src="https://static01.nyt.com/images/2018/10/19/business/19AIcover-illo/19AIcover-illo-jumbo-v5.gif" width="500" height="280" />
 
-**Skills**  
-
 **Hobbies**
 
 - <code><img height="20" src="https://static-s.aa-cdn.net/img/ios/1234516329/448aed252773244a665e43a4dc4547ae?v=1"></code> Rider
