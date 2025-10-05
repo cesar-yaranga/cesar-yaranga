@@ -15,6 +15,7 @@
 Soy **egresado de Ciencias de la Computación** de la  **Universidad Nacional de Ingeniería (UNI)** 🇵🇪  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="30px" />
 
 Apasionado por la **tecnología**, la **Arquitectura en la Nube (AWS)** y la **Inteligencia Artificial**.  
+
 Actualmente diseño soluciones escalables, seguras y automatizadas usando **Terraform**, **Kubernetes**, **Node.js** y **Python**.
 
 ---
