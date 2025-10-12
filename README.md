@@ -16,7 +16,7 @@ Soy **egresado de Ciencias de la Computación** de la  **Universidad Nacional de
 
 Apasionado por la **tecnología**, la **Arquitectura en la Nube (AWS)** y la **Inteligencia Artificial**.  
 
-Actualmente diseño soluciones escalables, seguras y automatizadas usando **Terraform**, **Kubernetes**, **Node.js** y **Python**.
+Actualmente diseño soluciones escalables, seguras y automatizadas usando **Terraform**, **Kubernetes**, **Go** y **Python**.
 
 ---
 
