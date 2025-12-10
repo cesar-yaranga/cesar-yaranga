@@ -1,18 +1,6 @@
 ### 👋 ¡Hola Mundo! Soy César Yaranga  
-<a href="https://www.linkedin.com/in/julio-cesar-yaranga-sante-aa9932179/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-<a href="https://github.com/cesar-yaranga">
-  <img align="left" alt="GitHub" width="25px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
-</a>
-<a href="https://www.kaggle.com/cesarys/code">
-  <img align="left" alt="Kaggle" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />
-</a>
 
-<br />
-<br />
-
-Soy **egresado de Ciencias de la Computación** de la  **Universidad Nacional de Ingeniería (UNI)** 🇵🇪  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Uni-logo_transparente_granate.png/611px-Uni-logo_transparente_granate.png" width="30px" />
+Soy **egresado de Ciencias de la Computación** de la  **Universidad Nacional de Ingeniería (UNI)** 🇵🇪
 
 Apasionado por la **tecnología**, la **Arquitectura en la Nube (AWS)** y la **Inteligencia Artificial**.  
 
