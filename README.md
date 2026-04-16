@@ -4,7 +4,7 @@ Soy **egresado de Ciencias de la Computación** de la  **Universidad Nacional de
 
 Apasionado por la **tecnología**, la **Arquitectura en la Nube (AWS)** y la **Inteligencia Artificial**.  
 
-Actualmente diseño soluciones escalables, seguras y automatizadas usando **Terraform**, **Kubernetes**, **Go** y **Python**.
+Actualmente diseño soluciones escalables, seguras y automatizadas usando **AWS**, **Terraform** y **Kubernetes**.
 
 ---
 
@@ -20,12 +20,6 @@ Actualmente diseño soluciones escalables, seguras y automatizadas usando **Terr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Golang" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </p>
 
