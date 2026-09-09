@@ -9,9 +9,8 @@ Actualmente diseño soluciones escalables, seguras y automatizadas usando **AWS*
 ---
 
 ### 🚀 Áreas de interés
-- ☁️ **Arquitectura Cloud y DevOps** (AWS, Terraform, EKS, CI/CD)
+- ☁️ **Arquitectura Cloud, Kubernetes y DevSecOps** (AWS, Terraform, EKS, CI/CD)
 - 🧠 **Inteligencia Artificial aplicada a productos reales**
-- 🧩 **Desarrollo de software fullstack escalable**
 
 ---
 
